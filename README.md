@@ -1,24 +1,18 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
+<h4 align="center">
+  🚀 Dockerizando um App Ruby on Rails
+</h4>
+<br>
 
-Things you may want to cover:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* Ruby version
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [Rails](https://rubyonrails.org/)
+- [Docker](https://www.docker.com/)
 
-* System dependencies
+## 💻 Projeto
 
-* Configuration
+O projeto é um simples estudo referente a dockerização de aplicações Rails, com o intuíto de conhecer a aperfeiçoar a utilização de Dockerfile e docker-compose.yml, visando boas práticas e seguindo padrões adotados pela comunidade.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+----
